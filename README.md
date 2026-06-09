@@ -26,7 +26,7 @@ Los usuarios pueden:
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/FaceGym.git
+git clone https://github.com/JUSTINVILLA-0/FaceGym.git
 ```
 
 2. Entrar a la carpeta del proyecto:
@@ -61,4 +61,7 @@ lib/
 ## Autor
 
 Justin Alexis Villa Pérez
+
 Liam Alejandro Hernandez Cerecedo
+
+Implementa Aplicaciones Móviles Multiplataforma 6-A Programación Matutino 08/06/2026
